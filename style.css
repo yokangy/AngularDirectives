@@ -1,0 +1,17 @@
+notepad {
+  display: block;
+  width: 30%;
+  margin: 0 auto;
+  height: 300px;
+}
+
+.title {
+  text-align: center;
+}
+.note-area {
+  background-image: url(http://i.stack.imgur.com/8zEoh.png);
+  background-repeat: no-repeat;
+  height: 80%;
+  padding-top: 40px;
+  margin-bottom: 10px;
+}
